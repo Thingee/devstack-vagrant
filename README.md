@@ -7,6 +7,7 @@ Box](https://www.virtualbox.org) provider, to allow someone to run an
 [DevStack](http://devstack.org) in a virtual machine.
 
 ## Install and run
+After installing the dependencies from the [requirements](https://github.com/Thingee/devstack-vagrant#requirements) section, open up a terminal and run the following commands:
 ```
 $ git clone https://github.com/Thingee/devstack-vagrant
 $ cd devstack-vagrant
